@@ -8,4 +8,5 @@ Enter a string (10 chars max) in the query above and press "Convert" button to s
 You can do a reverse query in \\u, 0x, \\x notation as well.
 
 INSTALL:
-All you need to do is install python2.7 and run charconv-0.1.pyw (OS independent)
+
+(OS independent) All you need to do is install python2.7 and run charconv-0.1.pyw 
