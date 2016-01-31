@@ -9,4 +9,4 @@ You can do a reverse query in ``\\u``, ``0x``, ``\\x`` notation as well.
 
 INSTALL:
 
-All you need to do is install `python2.7 <https://www.python.org/downloads>`_ and run ``charconv-0.1.pyw`` 
+All you need to do is install [python2.7](https://www.python.org/downloads) and run ``charconv-0.1.pyw`` 
